@@ -1,3 +1,9 @@
+#
+下载脚本：
+wget -N --no-check-certificate https://raw.githubusercontent.com/1309822767/NEWServerStatus/master/status.sh && chmod +x status.sh
+```
+
+
 # ServerStatus-Toyo： 
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
